@@ -40,4 +40,4 @@ This Project is licensed under the [MIT Licencse(LICENSE)]. You are free to use 
 
 ## ⭐ About me
 
-Hi there! I'm **Rohan Prabhakar Shinde**, . I'm an Student of Engineering in Computer Science & Engineering
+Hi there! I'm **Rohan Prabhakar Shinde**, . I'm a Student of Engineering in Computer Science & Engineering
