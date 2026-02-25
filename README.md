@@ -100,7 +100,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Rohan Prabhakar Shinde**. I’m an fresher data enthusiast and a student
+Hi there! I'm **Rohan Prabhakar Shinde**. I’m a fresher data enthusiast and a student
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
